@@ -81,14 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Lyn Watts"
-  avatar           : "profile.png"
-  bio              : "Hydrologist, Geoscientist, Wetland Nerd
-    PhD candidate in Earth, Geography and Climate Sciences at UMass Amherst, "
+  avatar           : "profile.jpg"
+  bio              : "Hydrologist, Geoscientist, Wetland Nerd. PhD candidate in Earth, Geography and Climate Sciences at UMass Amherst, "
   location         : "Amherst, MA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "cwatts@umass.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "clynwatts"
   google_plus      :
   keybase          :
   instagram        :

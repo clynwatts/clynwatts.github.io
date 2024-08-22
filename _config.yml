@@ -7,6 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 title                    : "Lyn Watts"
 title_separator          : "-"
 name                     : &name "Lyn Watts"
@@ -82,7 +83,7 @@ analytics:
 author:
   name             : "Lyn Watts"
   avatar           : "profile.png" # placed in /images/
-  bio              : "Hydrologist, Geoscientist, Wetland Nerd.      PhD Candidate in Earth, Geography and Climate Sciences at UMass, Amherst "
+  bio              : "Hydrologist, Geoscientist, Wetland Nerd.           PhD Candidate in Earth, Geography and Climate Sciences at UMass, Amherst "
   location         : "Amherst, MA"
   employer         :
   pubmed           : 

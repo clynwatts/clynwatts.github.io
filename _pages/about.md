@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a hydrologist and PhD candidate at UMass Amherst, and a reasearcher with [Living Observatory] (https://projects.livingobservatory.org/people/lwatts). I study the role groundwater plays in freshwater wetland restorations in former cranberry bogs in southeastern Massachsuetts. We are answering questions around how water moves through these wetlands, and how flowpaths change  in response to restoration and changing climate. I use a wide variety of tools to answer these questions, including isotope geochemistry, fiber-optic distributed temperature sensing, and thermal drone mapping. 
+I am a hydrologist and PhD candidate at UMass Amherst, and a reasearcher with [Living Observatory](https://projects.livingobservatory.org/people/lwatts). I study the role groundwater plays in freshwater wetland restorations in former cranberry bogs in southeastern Massachsuetts. We are answering questions around how water moves through these wetlands, and how flowpaths change  in response to restoration and changing climate. I use a wide variety of tools to answer these questions, including isotope geochemistry, fiber-optic distributed temperature sensing, and thermal drone mapping. 
 
-Boradly, my interestes include: surfacewater - groundwater interactions, temperature as a groundwater tracer, drones as tools in hydrology and goemorphology, land use history of kettle hole peatlands. 
+Broadly, my interestes include: surfacewater - groundwater interactions, temperature as a groundwater tracer, drones as tools in hydrology and goemorphology, land use history of kettle hole peatlands. 
 
 
 My background

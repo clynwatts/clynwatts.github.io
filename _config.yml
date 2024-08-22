@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Lyn Watts"
-  avatar           : "profile.jpg"
+  avatar           : "profile.png" # placed in /images/
   bio              : "Hydrologist, Geoscientist, Wetland Nerd. 
   
     PhD Candidate in Earth, Geography and Climate Sciences at UMass, Amherst "

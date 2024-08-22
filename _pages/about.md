@@ -8,13 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a test
+I am a hydrologist and PhD candidate at UMass Amherst, and a reasearcher with [Living Observatory] (https://projects.livingobservatory.org/people/lwatts). I study the role groundwater plays in freshwater wetland restorations in former cranberry bogs in southeastern Massachsuetts. We are answering questions around how water moves through these wetlands, and how flowpaths change  in response to restoration and changing climate. I use a wide variety of tools to answer these questions, including isotope geochemistry, fiber-optic distributed temperature sensing, and thermal drone mapping. 
 
-A data-driven personal website
+Boradly, my interestes include: surfacewater - groundwater interactions, temperature as a groundwater tracer, drones as tools in hydrology and goemorphology, land use history of kettle hole peatlands. 
+
+
+My background
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I am originally from Central New York and grew up exploring the forests and water bodies of the Finger Lakes and Adirondacks. I studied geology at Smith College, where I first got interested in sediment transport and heavy metal contamination. I sparked my interest in teaching working as an environmental educator both outdoors and in the classroom at an education organization based in New York City. 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+
 
 Getting started
 ======

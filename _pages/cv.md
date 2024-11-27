@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Geoscience, Smith College, 2017
+* M.S. in Geoscience, University of Massachsuetts, Amherst, 2024
+* Ph.D Candidate in Geoscience, University of Massachusetts, Amherst, current
 
 Work experience
 ======

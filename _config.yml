@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-theme                    : 
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+#theme                    : 
+#minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 title                    : "Lyn Watts"
 title_separator          : "-"
 name                     : &name "Lyn Watts"
@@ -86,7 +86,7 @@ author:
   avatar           : "profile.png" # placed in /images/
   bio              : "Hydrologist, Geoscientist, Wetland Nerd.           PhD Candidate in Earth, Geography and Climate Sciences at UMass, Amherst "
   location         : "Amherst, MA"
-  employer         :
+  employer         : "University of Massachusetts, Amherst"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=2&user=iLrIhVwAAAAJ"
   email            : "cwatts@umass.edu"
@@ -111,6 +111,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
+  bluesky          : "https://bsky.app/profile/clynwatts.bsky.social" # Replace this with you Bluesky username
   twitter          : "@clynwatts"
   vine             :
   weibo            :

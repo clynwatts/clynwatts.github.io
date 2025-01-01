@@ -7,6 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+
+I am a hydrologist and PhD candidate at UMass Amherst, and a reasearcher with Living Observatory . I study the role groundwater plays in freshwater wetland restorations in former cranberry bogs in southeastern Massachsuetts. We are answering questions around how water moves through these wetlands, and how flowpaths change in response to restoration and changing climate. I use a wide variety of tools to answer these questions, including isotope geochemistry, fiber-optic distributed temperature sensing, and thermal drone mapping.
+Broadly, my interestes include: surfacewater - groundwater interactions, temperature as a groundwater tracer, drones as tools in hydrology and goemorphology, land use history of kettle hole peatlands.
+
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website

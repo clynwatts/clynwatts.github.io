@@ -25,13 +25,13 @@ remote_theme             : "mmistakes/minimal-mistakes"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "C. Lyn Watts"
   #pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Amherst, MA"
+  employer         : "University of Massachusetts"
   #uri              : # URL
-  email            : "none@example.org" 
+  email            : "cwatts@umass.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

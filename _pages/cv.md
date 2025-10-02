@@ -11,27 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Geoscience, University of Massachusetts Amherst, Expected 2026)
+* M.S. in Geoscience, University of Massachusetts Amherst, 2023
+* B.A. in Geoscience, Smith College 2017
 
-Work experience
+Work and Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
+* 2020 - : Graduate Research Assistant
+  * Department of Earth Geographic and Climate Sciences, University of Massachusetts, Amherst, MA
   * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Supervisor: Dr. Christine Hatch
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2024: Summer Institute Fellow
+  * National Water Center, Tuscaloosa Alabama
+  * Built a real time impact- based flood inundation forecast app (available on Github) with a small team that is deployable in any city in the United States. 
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* 2019: Hydrology Assistant, Geoscientist in the Park
+  * Chattahoochee River National Recreation Area
+  * I trained and managed water quality-oriented citizen science volunteers in conjunction with GA Adopt – A – Stream . Conducted stream site assessments to evaluate accessibility and safety for volunteers. Recruited and trained volunteers in basic chemical and bacterial water quality testing
+
+* 2017: Stream Steward
+  * Greene County Soil and Water Conservation District
+  * I conducted a geomorphic stream feature inventory to assess localtions for future restoration projects. I also 
+established and monitored vegetation plots at existing restoration sites. I led watershed and pollution 
+demonstrations in local schools and at the county fair, and wrote articles for public audiences.
+
+
 Skills
 ======
 * Skill 1

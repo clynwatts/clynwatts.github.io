@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-redirect_to: /files/CV_CLynWatts.pdf
+redirect_to: /files/lyn_Watts_CV.pdf
 ---
 
 {% include base_path %}

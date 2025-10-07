@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2023_hydrogeology
 venue: "University of Massachsuetts, Department of Earth Geographic and Climate Sciences"
-date: Spring 2023
+date: 2023-01-15
 location: "Amherst, MA"
 ---
 18 students, 5 credit hours

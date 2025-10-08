@@ -18,7 +18,7 @@ I study the role groundwater plays in freshwater wetland restorations in former 
 - Thermal Drone Mapping
 
 ## In Progress
-\*Undergraduate Student Researcher
+\*Undergraduate student researcher
 
 - **Watts, C.L.**, Hatch, C.E., \*Hu, A. Wetland Restoration impacts on groundwater mixing: an isotopic and thermal imagery analysis. In prep for *Hydrologic Processes*
 - Elhaddad, H., Tran, D., **Watts, C.L.**. Transitioning to Impact – Based Forecasting for Riverine Flood Models. In prep. for *Water Resources Management*

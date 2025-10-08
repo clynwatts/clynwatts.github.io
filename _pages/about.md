@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Lyn Watts 
-  Wetland Hydrology and Flood Dynamics"
+title: "Lyn Watts" 
+subtitle: "Wetland Hydrology and Flood Dynamics"
 author_profile: true
 redirect_from: 
   - /about/

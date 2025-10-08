@@ -6,9 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-header:
-  image: /images/banner.jpg
-  caption: "Ipswich, MA"
+
 ---
 
 I am an applied scientist. I am interested in the relationship between water, land, and people, and how they evolve together. I seek to do research that has consequences for communities and is community driven. My research focuses on the hydrologic and geomorphologic evolution of freshwater wetlands, particularly wetland restorations. My work bridges between field data and remote sensing.

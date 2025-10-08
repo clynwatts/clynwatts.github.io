@@ -18,12 +18,15 @@ I study the role groundwater plays in freshwater wetland restorations in former 
 - Thermal Drone Mapping
 
 ## In Progress
-*Undergraduate Student Researcher
+\*Undergraduate Student Researcher
 
-- **Watts, C.L.**, Hatch, C.E., *Hu, A. Wetland Restoration impacts on groundwater mixing: an isotopic and thermal imagery analysis. In prep for *Hydrologic Processes*
+- **Watts, C.L.**, Hatch, C.E., \*Hu, A. Wetland Restoration impacts on groundwater mixing: an isotopic and thermal imagery analysis. In prep for *Hydrologic Processes*
+- Elhaddad, H., Tran, D., **Watts, C.L.**. Transitioning to Impact – Based Forecasting for Riverine Flood Models. In prep. for *Water Resources Management*
+**Authors contributed equally, and are listed alphabetically. 
+
 
 ## Publications
 
-- Watts, C.L., Hatch, C.E., Wicks, R. Mapping groundwater discharge seeps by thermal UAS imaging on a wetland restoration site. *Frontiers in Environmental Science*. 10-2022 (2023). [https://doi.org/10.3389/fenvs.2022.946565](https://doi.org/10.3389/fenvs.2022.946565)
+- **Watts, C.L.,** Hatch, C.E., Wicks, R. Mapping groundwater discharge seeps by thermal UAS imaging on a wetland restoration site. *Frontiers in Environmental Science*. 10-2022 (2023). [https://doi.org/10.3389/fenvs.2022.946565](https://doi.org/10.3389/fenvs.2022.946565)
 
-- Baruah, A., Dhital, S., Cohen, S., Tran, .D., Elhaddad, H., Watts, C.L., Devi, D., Chen, Y., Pruitt, C. FIMserv v.1.0: A Tool for Streamlining Flood Inundation Mapping (FIM) Using the United States Operational Hydrological Forecasting Framework. *Environmental Modelling and Software* vol. 192 (2025) [https://doi.org/10.1016/j.envsoft.2025.106581](https://doi.org/10.1016/j.envsoft.2025.106581)
+- Baruah, A., Dhital, S., Cohen, S., Tran, .D., Elhaddad, H., **Watts, C.L.,** Devi, D., Chen, Y., Pruitt, C. FIMserv v.1.0: A Tool for Streamlining Flood Inundation Mapping (FIM) Using the United States Operational Hydrological Forecasting Framework. *Environmental Modelling and Software* vol. 192 (2025) [https://doi.org/10.1016/j.envsoft.2025.106581](https://doi.org/10.1016/j.envsoft.2025.106581)

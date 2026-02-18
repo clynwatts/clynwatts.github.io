@@ -1,7 +1,7 @@
 ---
 title: 'Team Hydro tracking the water at Foothills'
 date: 2022-06-13
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/2022/06/Foothills/
 tags:
   - Cranberry Bogs
   - Living Observatory

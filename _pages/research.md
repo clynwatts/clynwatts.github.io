@@ -14,6 +14,7 @@ I am interested in the evolving relationships between water, land, and people. B
 We are asking how the process of restoration changes the hydrologic regime, groundwater flowpaths, and the role groundwater seeps play in building a functioning wetland ecosystem. We are further interested in how these sites evolve with changing climate and urbanizing watersheds. A lot of my work has revolved around the freshwater wetland restorations of former cranberry bogs in New England. In conjunction with collaborators at [Living Observatory](https://projects.livingobservatory.org/people/lwatts), we are answering questions around how restoration impacts these sites.
 
 **Related Publications and Presentations**
+
 \*Undergraduate student researcher
 * **Watts, C.L.**, Hatch, C.E., Guzman, C.D., \*Hu, A. Wetland Restoration impacts on groundwater mixing: an isotopic and thermal imagery analysis. Submitted to *Hydrologic Processes*
 * **Watts, C.L.,** Hatch, C.E., Wicks, R. Mapping groundwater discharge seeps by thermal UAS imaging on a wetland restoration site. *Frontiers in Environmental Science*. 10-2022 (2023). [https://doi.org/10.3389/fenvs.2022.946565](https://doi.org/10.3389/fenvs.2022.946565)

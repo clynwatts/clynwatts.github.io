@@ -15,6 +15,7 @@ description              : &description ""
 url                      : "https://clynwatts.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "clynwatts/clynwatts.github.io"
+google_analytics         : G-4XQD5DM22S
 
 # Theme
 remote_theme             : "mmistakes/minimal-mistakes"

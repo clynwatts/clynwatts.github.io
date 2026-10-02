@@ -15,7 +15,7 @@ redirect_from:
     <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
     {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}
-  <details open class="archive__item year-archive__details">
+  <details class="archive__item year-archive__details">
     <summary class="archive__item-title">
       {{ post.title }}
       <span class="page__date">{{ post.date | date: "%B %d, %Y" }}</span>

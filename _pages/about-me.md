@@ -53,3 +53,10 @@ I am happy to discuss ways to collaborate with potential postdocs. If you are in
 
 # Undergraduate Research Assistants
 If you would like to contribute to existing projects and gain research experience please reach out to me via email. If you have never had a research experience before, I encourage you to apply to my project through the [Binghamton University Projects for New Undergraduate Researchers](https://www.binghamton.edu/student-research-and-scholarship/undergraduate-research/projects.html). It is a paid opportunity to get hands on research experience in our lab. 
+
+**I am currently recruiting undergraduates to work on the following projects (non-exhaustive list):**
+* GIS and historical maps project: Map historic and current Atlantic white cedar forests in the northeast US. How has the spatial extent of these ecosystems changed over time?
+* Python and big data project: find and collect global streamflow datasets – Are rivers experiencing more extreme fluctuations over time?
+* Water quality and water source tracing: Collect water samples within the watershed and trace water origin along with nutrient contamination. Involves field and lab work
+* Water level history of Forested cedar swamps: Sample peat cores to determine the historic hydrologic conditions that led to tree growth. 
+
